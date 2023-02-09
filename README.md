@@ -29,6 +29,9 @@ Python script execution example:
 
 Caveats
 ---
+Only have tested against:
+* SRX320 JUNOS 21.4R1
+* vJunos 21.2R3-S1
 
 Improvement
 ---
