@@ -1,0 +1,658 @@
+{
+    "chassis-inventory" : [
+    {
+        "attributes" : {"xmlns" : "http://xml.juniper.net/junos/19.4R0/junos-chassis"}, 
+        "chassis" : [
+        {
+            "attributes" : {"junos:style" : "inventory"}, 
+            "name" : [
+            {
+                "data" : "Chassis"
+            }
+            ], 
+            "serial-number" : [
+            {
+                "data" : "JN126C2DAJCB"
+            }
+            ], 
+            "description" : [
+            {
+                "data" : "JNP10003 [MX10003]"
+            }
+            ], 
+            "clei-code" : [
+            {
+                "data" : "INM4F00ERA"
+            }
+            ], 
+            "model-number" : [
+            {
+                "data" : "JNP10003-CHAS"
+            }
+            ], 
+            "chassis-module" : [
+            {
+                "name" : [
+                {
+                    "data" : "Midplane"
+                }
+                ], 
+                "version" : [
+                {
+                    "data" : "REV 19"
+                }
+                ], 
+                "part-number" : [
+                {
+                    "data" : "750-074276"
+                }
+                ], 
+                "serial-number" : [
+                {
+                    "data" : "CAMZ3225"
+                }
+                ], 
+                "description" : [
+                {
+                    "data" : "Midplane 2"
+                }
+                ], 
+                "clei-code" : [
+                {
+                    "data" : "INM4F00ERA"
+                }
+                ], 
+                "model-number" : [
+                {
+                    "data" : "JNP10003-CHAS"
+                }
+                ]
+            }, 
+            {
+                "name" : [
+                {
+                    "data" : "Routing Engine 0"
+                }
+                ], 
+                "part-number" : [
+                {
+                    "data" : "BUILTIN"
+                }
+                ], 
+                "serial-number" : [
+                {
+                    "data" : "BUILTIN"
+                }
+                ], 
+                "description" : [
+                {
+                    "data" : "RE-S-1600x8"
+                }
+                ]
+            }, 
+            {                           
+                "name" : [
+                {
+                    "data" : "CB 0"
+                }
+                ], 
+                "version" : [
+                {
+                    "data" : "REV 35"
+                }
+                ], 
+                "part-number" : [
+                {
+                    "data" : "750-067071"
+                }
+                ], 
+                "serial-number" : [
+                {
+                    "data" : "CANP7105"
+                }
+                ], 
+                "description" : [
+                {
+                    "data" : "Control Board"
+                }
+                ], 
+                "clei-code" : [
+                {
+                    "data" : "INCPABGAAC"
+                }
+                ], 
+                "model-number" : [
+                {
+                    "data" : "JNP10003-RE1"
+                }
+                ], 
+                "chassis-sub-module" : [
+                {
+                    "name" : [
+                    {
+                        "data" : "Mezz"
+                    }
+                    ], 
+                    "version" : [
+                    {
+                        "data" : "REV 16"
+                    }                   
+                    ], 
+                    "part-number" : [
+                    {
+                        "data" : "711-066896"
+                    }
+                    ], 
+                    "serial-number" : [
+                    {
+                        "data" : "CANN8457"
+                    }
+                    ], 
+                    "description" : [
+                    {
+                        "data" : "Control Mezz Board"
+                    }
+                    ]
+                }
+                ]
+            }, 
+            {
+                "name" : [
+                {
+                    "data" : "FPC 0"
+                }
+                ], 
+                "version" : [
+                {
+                    "data" : "REV 26"
+                }
+                ], 
+                "part-number" : [
+                {
+                    "data" : "750-066879"
+                }
+                ], 
+                "serial-number" : [
+                {
+                    "data" : "CALT1846"
+                }
+                ], 
+                "description" : [
+                {
+                    "data" : "LC2103"
+                }
+                ], 
+                "clei-code" : [         
+                {
+                    "data" : "INUIACFAAB"
+                }
+                ], 
+                "model-number" : [
+                {
+                    "data" : "JNP10003-LC2103"
+                }
+                ], 
+                "chassis-sub-module" : [
+                {
+                    "name" : [
+                    {
+                        "data" : "CPU"
+                    }
+                    ], 
+                    "part-number" : [
+                    {
+                        "data" : "BUILTIN"
+                    }
+                    ], 
+                    "serial-number" : [
+                    {
+                        "data" : "BUILTIN"
+                    }
+                    ], 
+                    "description" : [
+                    {
+                        "data" : "SMPC PMB"
+                    }
+                    ]
+                }, 
+                {
+                    "name" : [
+                    {
+                        "data" : "PIC 0"
+                    }
+                    ], 
+                    "part-number" : [
+                    {
+                        "data" : "BUILTIN"
+                    }
+                    ], 
+                    "serial-number" : [
+                    {
+                        "data" : "BUILTIN"
+                    }
+                    ], 
+                    "description" : [
+                    {
+                        "data" : "6xQSFPP"
+                    }
+                    ]
+                }, 
+                {
+                    "name" : [
+                    {
+                        "data" : "PIC 1"
+                    }
+                    ], 
+                    "version" : [
+                    {
+                        "data" : "REV 26"
+                    }
+                    ], 
+                    "part-number" : [
+                    {
+                        "data" : "750-069305"
+                    }
+                    ], 
+                    "serial-number" : [
+                    {
+                        "data" : "CAKN3690"
+                    }
+                    ], 
+                    "description" : [
+                    {
+                        "data" : "MIC1-MACSEC"
+                    }
+                    ], 
+                    "clei-code" : [
+                    {
+                        "data" : "INUIACMAAA"
+                    }
+                    ], 
+                    "model-number" : [
+                    {
+                        "data" : "JNP-MIC1-MACSEC"
+                    }
+                    ], 
+                    "chassis-sub-sub-module" : [
+                    {                   
+                        "name" : [
+                        {
+                            "data" : "Xcvr 2"
+                        }
+                        ], 
+                        "part-number" : [
+                        {
+                            "data" : "NON-JNPR"
+                        }
+                        ], 
+                        "serial-number" : [
+                        {
+                            "data" : "173353861"
+                        }
+                        ], 
+                        "description" : [
+                        {
+                            "data" : "QSFP+-40G-CU3M"
+                        }
+                        ]
+                    }, 
+                    {
+                        "name" : [
+                        {
+                            "data" : "Xcvr 8"
+                        }
+                        ], 
+                        "version" : [
+                        {
+                            "data" : "REV 01"
+                        }
+                        ], 
+                        "part-number" : [
+                        {
+                            "data" : "740-044512"
+                        }
+                        ], 
+                        "serial-number" : [
+                        {
+                            "data" : "MOC15525120536"
+                        }
+                        ], 
+                        "description" : [
+                        {
+                            "data" : "QSFP+-40G-CU50CM"
+                        }               
+                        ]
+                    }, 
+                    {
+                        "name" : [
+                        {
+                            "data" : "Xcvr 9"
+                        }
+                        ], 
+                        "version" : [
+                        {
+                            "data" : "REV 01"
+                        }
+                        ], 
+                        "part-number" : [
+                        {
+                            "data" : "740-044512"
+                        }
+                        ], 
+                        "serial-number" : [
+                        {
+                            "data" : "MOC15525120536"
+                        }
+                        ], 
+                        "description" : [
+                        {
+                            "data" : "QSFP+-40G-CU50CM"
+                        }
+                        ]
+                    }
+                    ]
+                }
+                ]
+            }, 
+            {
+                "name" : [
+                {
+                    "data" : "PEM 0"
+                }
+                ], 
+                "version" : [
+                {
+                    "data" : "REV 01"
+                }
+                ], 
+                "part-number" : [
+                {                       
+                    "data" : "740-066937"
+                }
+                ], 
+                "serial-number" : [
+                {
+                    "data" : "1HS19420205"
+                }
+                ], 
+                "description" : [
+                {
+                    "data" : "JNP-PWR1600-AC"
+                }
+                ], 
+                "clei-code" : [
+                {
+                    "data" : "COUPAHDEAA"
+                }
+                ], 
+                "model-number" : [
+                {
+                    "data" : "JNP-PWR1600-AC"
+                }
+                ]
+            }, 
+            {
+                "name" : [
+                {
+                    "data" : "PEM 1"
+                }
+                ], 
+                "version" : [
+                {
+                    "data" : "REV 01"
+                }
+                ], 
+                "part-number" : [
+                {
+                    "data" : "740-066937"
+                }
+                ], 
+                "serial-number" : [
+                {
+                    "data" : "1HS19420001"
+                }
+                ], 
+                "description" : [       
+                {
+                    "data" : "JNP-PWR1600-AC"
+                }
+                ], 
+                "clei-code" : [
+                {
+                    "data" : "COUPAHDEAA"
+                }
+                ], 
+                "model-number" : [
+                {
+                    "data" : "JNP-PWR1600-AC"
+                }
+                ]
+            }, 
+            {
+                "name" : [
+                {
+                    "data" : "PEM 2"
+                }
+                ], 
+                "version" : [
+                {
+                    "data" : "REV 01"
+                }
+                ], 
+                "part-number" : [
+                {
+                    "data" : "740-066937"
+                }
+                ], 
+                "serial-number" : [
+                {
+                    "data" : "1HS19420009"
+                }
+                ], 
+                "description" : [
+                {
+                    "data" : "JNP-PWR1600-AC"
+                }
+                ], 
+                "clei-code" : [
+                {
+                    "data" : "COUPAHDEAA"
+                }
+                ],                      
+                "model-number" : [
+                {
+                    "data" : "JNP-PWR1600-AC"
+                }
+                ]
+            }, 
+            {
+                "name" : [
+                {
+                    "data" : "PEM 3"
+                }
+                ], 
+                "version" : [
+                {
+                    "data" : "REV 01"
+                }
+                ], 
+                "part-number" : [
+                {
+                    "data" : "740-066937"
+                }
+                ], 
+                "serial-number" : [
+                {
+                    "data" : "1HS19420208"
+                }
+                ], 
+                "description" : [
+                {
+                    "data" : "JNP-PWR1600-AC"
+                }
+                ], 
+                "clei-code" : [
+                {
+                    "data" : "COUPAHDEAA"
+                }
+                ], 
+                "model-number" : [
+                {
+                    "data" : "JNP-PWR1600-AC"
+                }
+                ]
+            }, 
+            {
+                "name" : [
+                {                       
+                    "data" : "Fan Tray 0"
+                }
+                ], 
+                "version" : [
+                {
+                    "data" : "REV 13"
+                }
+                ], 
+                "part-number" : [
+                {
+                    "data" : "760-069329"
+                }
+                ], 
+                "serial-number" : [
+                {
+                    "data" : "CAMV0695"
+                }
+                ], 
+                "description" : [
+                {
+                    "data" : "JNP FAN 3RU"
+                }
+                ], 
+                "clei-code" : [
+                {
+                    "data" : "FWUCAA5AAA"
+                }
+                ], 
+                "model-number" : [
+                {
+                    "data" : "JNP-FAN-3RU"
+                }
+                ]
+            }, 
+            {
+                "name" : [
+                {
+                    "data" : "Fan Tray 1"
+                }
+                ], 
+                "version" : [
+                {
+                    "data" : "REV 13"
+                }
+                ], 
+                "part-number" : [       
+                {
+                    "data" : "760-069329"
+                }
+                ], 
+                "serial-number" : [
+                {
+                    "data" : "CANM6925"
+                }
+                ], 
+                "description" : [
+                {
+                    "data" : "JNP FAN 3RU"
+                }
+                ], 
+                "clei-code" : [
+                {
+                    "data" : "FWUCAA5AAA"
+                }
+                ], 
+                "model-number" : [
+                {
+                    "data" : "JNP-FAN-3RU"
+                }
+                ]
+            }, 
+            {
+                "name" : [
+                {
+                    "data" : "Fan Tray 2"
+                }
+                ], 
+                "version" : [
+                {
+                    "data" : "REV 13"
+                }
+                ], 
+                "part-number" : [
+                {
+                    "data" : "760-069329"
+                }
+                ], 
+                "serial-number" : [
+                {
+                    "data" : "CANM6130"
+                }
+                ],                      
+                "description" : [
+                {
+                    "data" : "JNP FAN 3RU"
+                }
+                ], 
+                "clei-code" : [
+                {
+                    "data" : "FWUCAA5AAA"
+                }
+                ], 
+                "model-number" : [
+                {
+                    "data" : "JNP-FAN-3RU"
+                }
+                ]
+            }, 
+            {
+                "name" : [
+                {
+                    "data" : "Fan Tray 3"
+                }
+                ], 
+                "version" : [
+                {
+                    "data" : "REV 13"
+                }
+                ], 
+                "part-number" : [
+                {
+                    "data" : "760-069329"
+                }
+                ], 
+                "serial-number" : [
+                {
+                    "data" : "CAMW6167"
+                }
+                ], 
+                "description" : [
+                {
+                    "data" : "JNP FAN 3RU"
+                }
+                ], 
+                "clei-code" : [
+                {
+                    "data" : "FWUCAA5AAA"
+                }                       
+                ], 
+                "model-number" : [
+                {
+                    "data" : "JNP-FAN-3RU"
+                }
+                ]
+            }
+            ]
+        }
+        ]
+    }
+    ]
+}

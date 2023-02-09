@@ -1,3 +1,4 @@
 env/
+.DS_Store
 chassis_hardware_outputs/
 hardware_parts.csv

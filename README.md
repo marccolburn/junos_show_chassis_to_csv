@@ -32,6 +32,9 @@ Caveats
 Only have tested against:
 * SRX320 JUNOS 21.4R1
 * vJunos 21.2R3-S1
+* MX480 20.4
+* MX240 22.1
+* MX10k3 19.4
 
 Improvement
 ---

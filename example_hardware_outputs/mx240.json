@@ -1,0 +1,429 @@
+{
+    "chassis-inventory" : [
+    {
+        "attributes" : {"xmlns" : "http://xml.juniper.net/junos/22.1I0/junos-chassis"}, 
+        "chassis" : [
+        {
+            "attributes" : {"junos:style" : "inventory"}, 
+            "name" : [
+            {
+                "data" : "Chassis"
+            }
+            ], 
+            "serial-number" : [
+            {
+                "data" : "JN11553AAAFC"
+            }
+            ], 
+            "description" : [
+            {
+                "data" : "MX240"
+            }
+            ], 
+            "chassis-module" : [
+            {
+                "name" : [
+                {
+                    "data" : "Midplane"
+                }
+                ], 
+                "version" : [
+                {
+                    "data" : "REV 07"
+                }
+                ], 
+                "part-number" : [
+                {
+                    "data" : "760-021404"
+                }
+                ], 
+                "serial-number" : [
+                {
+                    "data" : "ABAA7094"
+                }
+                ], 
+                "description" : [
+                {
+                    "data" : "MX240 Backplane"
+                }
+                ], 
+                "model-number" : [
+                {
+                    "data" : "CHAS-BP-MX240-S"
+                }
+                ]
+            }, 
+            {
+                "name" : [
+                {
+                    "data" : "FPM Board"
+                }
+                ], 
+                "version" : [
+                {
+                    "data" : "REV 03"
+                }
+                ], 
+                "part-number" : [
+                {
+                    "data" : "760-021392"
+                }
+                ], 
+                "serial-number" : [
+                {
+                    "data" : "ABBA1711"
+                }
+                ], 
+                "description" : [
+                {
+                    "data" : "Front Panel Display"
+                }
+                ], 
+                "model-number" : [
+                {
+                    "data" : "CRAFT-MX240-S"
+                }
+                ]
+            }, 
+            {
+                "name" : [
+                {
+                    "data" : "PEM 0"
+                }
+                ],                      
+                "version" : [
+                {
+                    "data" : "Rev 05"
+                }
+                ], 
+                "part-number" : [
+                {
+                    "data" : "740-029970"
+                }
+                ], 
+                "serial-number" : [
+                {
+                    "data" : "QCS1023U07N"
+                }
+                ], 
+                "description" : [
+                {
+                    "data" : "PS 1.4-2.52kW; 90-264V AC in"
+                }
+                ], 
+                "model-number" : [
+                {
+                    "data" : "PWR-MX480-2520-AC-S"
+                }
+                ]
+            }, 
+            {
+                "name" : [
+                {
+                    "data" : "PEM 1"
+                }
+                ], 
+                "version" : [
+                {
+                    "data" : "Rev 05"
+                }
+                ], 
+                "part-number" : [
+                {
+                    "data" : "740-029970"
+                }
+                ], 
+                "serial-number" : [
+                {
+                    "data" : "QCS1023U08K"
+                }                       
+                ], 
+                "description" : [
+                {
+                    "data" : "PS 1.4-2.52kW; 90-264V AC in"
+                }
+                ], 
+                "model-number" : [
+                {
+                    "data" : "PWR-MX480-2520-AC-S"
+                }
+                ]
+            }, 
+            {
+                "name" : [
+                {
+                    "data" : "Routing Engine 0"
+                }
+                ], 
+                "version" : [
+                {
+                    "data" : "REV 05"
+                }
+                ], 
+                "part-number" : [
+                {
+                    "data" : "740-031116"
+                }
+                ], 
+                "serial-number" : [
+                {
+                    "data" : "9009061191"
+                }
+                ], 
+                "description" : [
+                {
+                    "data" : "RE-S-1800x4"
+                }
+                ], 
+                "clei-code" : [
+                {
+                    "data" : "COUCALDBAA"
+                }
+                ], 
+                "model-number" : [
+                {
+                    "data" : "RE-S-1800X4-16G-S"
+                }
+                ]
+            }, 
+            {
+                "name" : [
+                {
+                    "data" : "CB 0"
+                }
+                ], 
+                "version" : [
+                {
+                    "data" : "REV 03"
+                }
+                ], 
+                "part-number" : [
+                {
+                    "data" : "750-055976"
+                }
+                ], 
+                "serial-number" : [
+                {
+                    "data" : "CAEF6050"
+                }
+                ], 
+                "description" : [
+                {
+                    "data" : "Enhanced MX SCB 2"
+                }
+                ], 
+                "clei-code" : [
+                {
+                    "data" : "COUCATYBAA"
+                }
+                ], 
+                "model-number" : [
+                {
+                    "data" : "SCBE2-MX-S"
+                }
+                ]
+            }, 
+            {
+                "name" : [
+                {
+                    "data" : "FPC 1"
+                }
+                ],                      
+                "version" : [
+                {
+                    "data" : "REV 40"
+                }
+                ], 
+                "part-number" : [
+                {
+                    "data" : "750-056519"
+                }
+                ], 
+                "serial-number" : [
+                {
+                    "data" : "CAHW3946"
+                }
+                ], 
+                "description" : [
+                {
+                    "data" : "MPC7E 3D MRATE-12xQSFPP-XGE-XLGE-CGE"
+                }
+                ], 
+                "clei-code" : [
+                {
+                    "data" : "COUCAU4BAB"
+                }
+                ], 
+                "model-number" : [
+                {
+                    "data" : "MPC7E-MRATE"
+                }
+                ], 
+                "chassis-sub-module" : [
+                {
+                    "name" : [
+                    {
+                        "data" : "CPU"
+                    }
+                    ], 
+                    "version" : [
+                    {
+                        "data" : "REV 19"
+                    }
+                    ], 
+                    "part-number" : [
+                    {
+                        "data" : "750-057177"
+                    }                   
+                    ], 
+                    "serial-number" : [
+                    {
+                        "data" : "CAHK9261"
+                    }
+                    ], 
+                    "description" : [
+                    {
+                        "data" : "SMPC PMB"
+                    }
+                    ]
+                }, 
+                {
+                    "name" : [
+                    {
+                        "data" : "PIC 0"
+                    }
+                    ], 
+                    "part-number" : [
+                    {
+                        "data" : "BUILTIN"
+                    }
+                    ], 
+                    "serial-number" : [
+                    {
+                        "data" : "BUILTIN"
+                    }
+                    ], 
+                    "description" : [
+                    {
+                        "data" : "MRATE-6xQSFPP-XGE-XLGE-CGE"
+                    }
+                    ], 
+                    "chassis-sub-sub-module" : [
+                    {
+                        "name" : [
+                        {
+                            "data" : "Xcvr 2"
+                        }
+                        ], 
+                        "version" : [
+                        {
+                            "data" : "REV 01"
+                        }
+                        ], 
+                        "part-number" : [
+                        {
+                            "data" : "740-061409"
+                        }
+                        ], 
+                        "serial-number" : [
+                        {
+                            "data" : "1GCQA2040DG"
+                        }
+                        ], 
+                        "description" : [
+                        {
+                            "data" : "QSFP-100GBASE-LR4-T2"
+                        }
+                        ]
+                    }, 
+                    {
+                        "name" : [
+                        {
+                            "data" : "Xcvr 5"
+                        }
+                        ], 
+                        "version" : [
+                        {
+                            "data" : "REV 01"
+                        }
+                        ], 
+                        "part-number" : [
+                        {
+                            "data" : "740-061409"
+                        }
+                        ], 
+                        "serial-number" : [
+                        {
+                            "data" : "1GCQA31600N"
+                        }
+                        ], 
+                        "description" : [
+                        {
+                            "data" : "QSFP-100GBASE-LR4-T2"
+                        }
+                        ]
+                    }
+                    ]
+                }, 
+                {
+                    "name" : [          
+                    {
+                        "data" : "PIC 1"
+                    }
+                    ], 
+                    "part-number" : [
+                    {
+                        "data" : "BUILTIN"
+                    }
+                    ], 
+                    "serial-number" : [
+                    {
+                        "data" : "BUILTIN"
+                    }
+                    ], 
+                    "description" : [
+                    {
+                        "data" : "MRATE-6xQSFPP-XGE-XLGE-CGE"
+                    }
+                    ]
+                }
+                ]
+            }, 
+            {
+                "name" : [
+                {
+                    "data" : "Fan Tray 0"
+                }
+                ], 
+                "version" : [
+                {
+                    "data" : "REV 01"
+                }
+                ], 
+                "part-number" : [
+                {
+                    "data" : "710-030216"
+                }
+                ], 
+                "serial-number" : [
+                {
+                    "data" : "XS7833"
+                }
+                ], 
+                "description" : [
+                {
+                    "data" : "Enhanced Fan Tray"
+                }
+                ], 
+                "model-number" : [
+                {
+                    "data" : "FFANTRAY-MX240-HC-S"
+                }
+                ]
+            }
+            ]
+        }
+        ]
+    }
+    ]
+}

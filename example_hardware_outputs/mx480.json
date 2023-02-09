@@ -1,0 +1,620 @@
+{
+    "chassis-inventory" : [
+    {
+        "attributes" : {"xmlns" : "http://xml.juniper.net/junos/20.4R0/junos-chassis"}, 
+        "chassis" : [
+        {
+            "attributes" : {"junos:style" : "inventory"}, 
+            "name" : [
+            {
+                "data" : "Chassis"
+            }
+            ], 
+            "serial-number" : [
+            {
+                "data" : "JN126C351AFB"
+            }
+            ], 
+            "description" : [
+            {
+                "data" : "MX480"
+            }
+            ], 
+            "chassis-module" : [
+            {
+                "name" : [
+                {
+                    "data" : "Midplane"
+                }
+                ], 
+                "version" : [
+                {
+                    "data" : "REV 48"
+                }
+                ], 
+                "part-number" : [
+                {
+                    "data" : "750-047862"
+                }
+                ], 
+                "serial-number" : [
+                {
+                    "data" : "ACRM9536"
+                }
+                ], 
+                "description" : [
+                {
+                    "data" : "Enhanced MX480 Midplane"
+                }
+                ], 
+                "clei-code" : [
+                {
+                    "data" : "COMLM10BRB"
+                }
+                ], 
+                "model-number" : [
+                {
+                    "data" : "CHAS-BP3-MX480-S"
+                }
+                ]
+            }, 
+            {
+                "name" : [
+                {
+                    "data" : "FPM Board"
+                }
+                ], 
+                "version" : [
+                {
+                    "data" : "REV 05"
+                }
+                ], 
+                "part-number" : [
+                {
+                    "data" : "760-059208"
+                }
+                ], 
+                "serial-number" : [
+                {
+                    "data" : "ABDW7851"
+                }
+                ], 
+                "description" : [
+                {
+                    "data" : "Front Panel Display"
+                }
+                ], 
+                "clei-code" : [
+                {
+                    "data" : "COUCAEGBTB"
+                }
+                ], 
+                "model-number" : [
+                {                       
+                    "data" : "CRAFT-MX480-S"
+                }
+                ]
+            }, 
+            {
+                "name" : [
+                {
+                    "data" : "PEM 0"
+                }
+                ], 
+                "version" : [
+                {
+                    "data" : "Rev 01"
+                }
+                ], 
+                "part-number" : [
+                {
+                    "data" : "740-063046"
+                }
+                ], 
+                "serial-number" : [
+                {
+                    "data" : "QCS1931U0SD"
+                }
+                ], 
+                "description" : [
+                {
+                    "data" : "PS 1.4-2.52kW; 90-264V AC in"
+                }
+                ], 
+                "model-number" : [
+                {
+                    "data" : "PWR-MX480-2520-AC-S"
+                }
+                ]
+            }, 
+            {
+                "name" : [
+                {
+                    "data" : "PEM 1"
+                }
+                ], 
+                "version" : [
+                {
+                    "data" : "Rev 01"
+                }                       
+                ], 
+                "part-number" : [
+                {
+                    "data" : "740-063046"
+                }
+                ], 
+                "serial-number" : [
+                {
+                    "data" : "QCS1931U1TT"
+                }
+                ], 
+                "description" : [
+                {
+                    "data" : "PS 1.4-2.52kW; 90-264V AC in"
+                }
+                ], 
+                "model-number" : [
+                {
+                    "data" : "PWR-MX480-2520-AC-S"
+                }
+                ]
+            }, 
+            {
+                "name" : [
+                {
+                    "data" : "PEM 2"
+                }
+                ], 
+                "version" : [
+                {
+                    "data" : "Rev 01"
+                }
+                ], 
+                "part-number" : [
+                {
+                    "data" : "740-063046"
+                }
+                ], 
+                "serial-number" : [
+                {
+                    "data" : "QCS1931U17U"
+                }
+                ], 
+                "description" : [
+                {
+                    "data" : "PS 1.4-2.52kW; 90-264V AC in"
+                }
+                ], 
+                "model-number" : [
+                {
+                    "data" : "PWR-MX480-2520-AC-S"
+                }
+                ]
+            }, 
+            {
+                "name" : [
+                {
+                    "data" : "Routing Engine 0"
+                }
+                ], 
+                "version" : [
+                {
+                    "data" : "REV 19"
+                }
+                ], 
+                "part-number" : [
+                {
+                    "data" : "750-054758"
+                }
+                ], 
+                "serial-number" : [
+                {
+                    "data" : "CANK3204"
+                }
+                ], 
+                "description" : [
+                {
+                    "data" : "RE-S-2X00x6"
+                }
+                ], 
+                "clei-code" : [
+                {
+                    "data" : "COUCAU7BAB"
+                }
+                ], 
+                "model-number" : [
+                {
+                    "data" : "RE-S-X6-64G-S"
+                }
+                ]
+            }, 
+            {                           
+                "name" : [
+                {
+                    "data" : "CB 0"
+                }
+                ], 
+                "version" : [
+                {
+                    "data" : "REV 29"
+                }
+                ], 
+                "part-number" : [
+                {
+                    "data" : "750-070866"
+                }
+                ], 
+                "serial-number" : [
+                {
+                    "data" : "CANA2483"
+                }
+                ], 
+                "description" : [
+                {
+                    "data" : "Enhanced MX SCB 3"
+                }
+                ], 
+                "clei-code" : [
+                {
+                    "data" : "COUCAVMBAA"
+                }
+                ], 
+                "model-number" : [
+                {
+                    "data" : "SCBE3-MX-S"
+                }
+                ]
+            }, 
+            {
+                "name" : [
+                {
+                    "data" : "FPC 3"
+                }
+                ], 
+                "version" : [
+                {
+                    "data" : "REV 48"
+                }                       
+                ], 
+                "part-number" : [
+                {
+                    "data" : "750-053323"
+                }
+                ], 
+                "serial-number" : [
+                {
+                    "data" : "CALH9933"
+                }
+                ], 
+                "description" : [
+                {
+                    "data" : "MPC7E 3D 40XGE"
+                }
+                ], 
+                "clei-code" : [
+                {
+                    "data" : "COUCAVGBAD"
+                }
+                ], 
+                "model-number" : [
+                {
+                    "data" : "MPC7E-10G"
+                }
+                ], 
+                "chassis-sub-module" : [
+                {
+                    "name" : [
+                    {
+                        "data" : "CPU"
+                    }
+                    ], 
+                    "version" : [
+                    {
+                        "data" : "REV 21"
+                    }
+                    ], 
+                    "part-number" : [
+                    {
+                        "data" : "750-057177"
+                    }
+                    ], 
+                    "serial-number" : [
+                    {
+                        "data" : "CALA0009"
+                    }
+                    ], 
+                    "description" : [
+                    {
+                        "data" : "SMPC PMB"
+                    }
+                    ]
+                }, 
+                {
+                    "name" : [
+                    {
+                        "data" : "PIC 0"
+                    }
+                    ], 
+                    "part-number" : [
+                    {
+                        "data" : "BUILTIN"
+                    }
+                    ], 
+                    "serial-number" : [
+                    {
+                        "data" : "BUILTIN"
+                    }
+                    ], 
+                    "description" : [
+                    {
+                        "data" : "20x10GE SFPP"
+                    }
+                    ], 
+                    "chassis-sub-sub-module" : [
+                    {
+                        "name" : [
+                        {
+                            "data" : "Xcvr 1"
+                        }
+                        ], 
+                        "version" : [
+                        {
+                            "data" : "REV 02"
+                        }
+                        ], 
+                        "part-number" : [
+                        {
+                            "data" : "740-013111"
+                        }
+                        ],              
+                        "serial-number" : [
+                        {
+                            "data" : "A066536"
+                        }
+                        ], 
+                        "description" : [
+                        {
+                            "data" : "SFP-T"
+                        }
+                        ]
+                    }, 
+                    {
+                        "name" : [
+                        {
+                            "data" : "Xcvr 16"
+                        }
+                        ], 
+                        "version" : [
+                        {
+                            "data" : "REV 01"
+                        }
+                        ], 
+                        "part-number" : [
+                        {
+                            "data" : "740-030076"
+                        }
+                        ], 
+                        "serial-number" : [
+                        {
+                            "data" : "APF14300013P48"
+                        }
+                        ], 
+                        "description" : [
+                        {
+                            "data" : "SFP+-10G-CU1M"
+                        }
+                        ]
+                    }, 
+                    {
+                        "name" : [
+                        {
+                            "data" : "Xcvr 17"
+                        }
+                        ], 
+                        "version" : [
+                        {               
+                            "data" : "REV 01"
+                        }
+                        ], 
+                        "part-number" : [
+                        {
+                            "data" : "740-030076"
+                        }
+                        ], 
+                        "serial-number" : [
+                        {
+                            "data" : "APF15140018KH9"
+                        }
+                        ], 
+                        "description" : [
+                        {
+                            "data" : "SFP+-10G-CU1M"
+                        }
+                        ]
+                    }, 
+                    {
+                        "name" : [
+                        {
+                            "data" : "Xcvr 18"
+                        }
+                        ], 
+                        "version" : [
+                        {
+                            "data" : "REV 01"
+                        }
+                        ], 
+                        "part-number" : [
+                        {
+                            "data" : "740-030076"
+                        }
+                        ], 
+                        "serial-number" : [
+                        {
+                            "data" : "APF15140018KHN"
+                        }
+                        ], 
+                        "description" : [
+                        {
+                            "data" : "SFP+-10G-CU1M"
+                        }
+                        ]
+                    }                   
+                    ]
+                }, 
+                {
+                    "name" : [
+                    {
+                        "data" : "PIC 1"
+                    }
+                    ], 
+                    "part-number" : [
+                    {
+                        "data" : "BUILTIN"
+                    }
+                    ], 
+                    "serial-number" : [
+                    {
+                        "data" : "BUILTIN"
+                    }
+                    ], 
+                    "description" : [
+                    {
+                        "data" : "20x10GE SFPP"
+                    }
+                    ], 
+                    "chassis-sub-sub-module" : [
+                    {
+                        "name" : [
+                        {
+                            "data" : "Xcvr 13"
+                        }
+                        ], 
+                        "version" : [
+                        {
+                            "data" : "REV 01"
+                        }
+                        ], 
+                        "part-number" : [
+                        {
+                            "data" : "740-030076"
+                        }
+                        ], 
+                        "serial-number" : [
+                        {
+                            "data" : "APF14300013PLC"
+                        }
+                        ], 
+                        "description" : [
+                        {
+                            "data" : "SFP+-10G-CU1M"
+                        }
+                        ]
+                    }, 
+                    {
+                        "name" : [
+                        {
+                            "data" : "Xcvr 15"
+                        }
+                        ], 
+                        "version" : [
+                        {
+                            "data" : "REV 01"
+                        }
+                        ], 
+                        "part-number" : [
+                        {
+                            "data" : "740-030076"
+                        }
+                        ], 
+                        "serial-number" : [
+                        {
+                            "data" : "APF14300013PLC"
+                        }
+                        ], 
+                        "description" : [
+                        {
+                            "data" : "SFP+-10G-CU1M"
+                        }
+                        ]
+                    }, 
+                    {
+                        "name" : [
+                        {
+                            "data" : "Xcvr 17"
+                        }
+                        ], 
+                        "version" : [
+                        {
+                            "data" : "REV 01"
+                        }
+                        ], 
+                        "part-number" : [
+                        {
+                            "data" : "740-030076"
+                        }
+                        ], 
+                        "serial-number" : [
+                        {
+                            "data" : "APF14350016UNY"
+                        }
+                        ], 
+                        "description" : [
+                        {
+                            "data" : "SFP+-10G-CU1M"
+                        }
+                        ]
+                    }, 
+                    {
+                        "name" : [
+                        {
+                            "data" : "Xcvr 19"
+                        }
+                        ], 
+                        "version" : [
+                        {
+                            "data" : "REV 01"
+                        }
+                        ], 
+                        "part-number" : [
+                        {
+                            "data" : "740-030076"
+                        }
+                        ], 
+                        "serial-number" : [
+                        {
+                            "data" : "APF14350016UNY"
+                        }
+                        ], 
+                        "description" : [
+                        {
+                            "data" : "SFP+-10G-CU1M"
+                        }
+                        ]
+                    }
+                    ]
+                }
+                ]
+            }, 
+            {
+                "name" : [              
+                {
+                    "data" : "Fan Tray"
+                }
+                ], 
+                "description" : [
+                {
+                    "data" : "Enhanced Left Fan Tray"
+                }
+                ], 
+                "model-number" : [
+                {
+                    "data" : "FFANTRAY-MX480-HC-S"
+                }
+                ]
+            }
+            ]
+        }
+        ]
+    }
+    ]
+}
