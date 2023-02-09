@@ -1,0 +1,99 @@
+{
+    "chassis-inventory" : [
+    {
+        "attributes" : {"xmlns" : "http://xml.juniper.net/junos/21.4R0/junos-chassis"}, 
+        "chassis" : [
+        {
+            "attributes" : {"junos:style" : "inventory"}, 
+            "name" : [
+            {
+                "data" : "Chassis"
+            }
+            ], 
+            "serial-number" : [
+            {
+                "data" : "CW3719AN1213"
+            }
+            ], 
+            "description" : [
+            {
+                "data" : "SRX320"
+            }
+            ], 
+            "chassis-module" : [
+            {
+                "name" : [
+                {
+                    "data" : "Routing Engine"
+                }
+                ], 
+                "version" : [
+                {
+                    "data" : "REV 0x16"
+                }
+                ], 
+                "part-number" : [
+                {
+                    "data" : "650-065040"
+                }
+                ], 
+                "serial-number" : [
+                {
+                    "data" : "CW3719AN1213"
+                }
+                ], 
+                "description" : [
+                {
+                    "data" : "RE-SRX320"
+                }
+                ]
+            }, 
+            {
+                "name" : [
+                {
+                    "data" : "FPC 0"
+                }
+                ], 
+                "part-number" : [
+                {
+                    "data" : "BUILTIN"
+                }
+                ], 
+                "serial-number" : [
+                {
+                    "data" : "BUILTIN"
+                }
+                ], 
+                "description" : [
+                {
+                    "data" : "FPC"
+                }
+                ], 
+                "chassis-sub-module" : [
+                {
+                    "name" : [
+                    {
+                        "data" : "PIC 0"
+                    }
+                    ], 
+                    "description" : [
+                    {
+                        "data" : "6xGE,2xGE SFP Base PIC"
+                    }
+                    ]
+                }
+                ]
+            }, 
+            {
+                "name" : [
+                {
+                    "data" : "Power Supply 0"
+                }
+                ]
+            }
+            ]
+        }
+        ]
+    }
+    ]
+}
